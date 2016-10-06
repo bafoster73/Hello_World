@@ -15,7 +15,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello World!!" />
 
     <TextView
         android:text="My name is Brandon Foster, this class is CSE121: Mobile Development Architecture, and my major of study is Computer Science and Engineering"
